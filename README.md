@@ -2,7 +2,7 @@
 
 ![NeBLa Model](./model.png) 
 
-Welcome to the official code repository for the paper titled "NeBLa: Neural Beer-Lambert for 3D Reconstruction of Oral Structures from Panoramic Radiographs." In this repository, you'll find the core model classes used in the generation module.
+Welcome to the official code repository for the paper titled "NeBLa: Neural Beer-Lambert for 3D Reconstruction of Oral Structures from Panoramic Radiographs," accepted at AAAI 2024. In this repository, you'll find the core model classes used in the generation module.
 
 ## Model Details
 
